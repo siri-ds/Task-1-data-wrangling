@@ -1,0 +1,15 @@
+DATA DICTIONARY – TITANIC DATASET
+
+1. PassengerId – Unique ID for each passenger – Integer
+2. Survived – Survival status (0 = No, 1 = Yes) – Integer
+3. Pclass – Ticket class – Integer
+4. Name – Passenger name – String
+5. Sex – Gender of passenger – String
+6. Age – Age of passenger – Float
+7. SibSp – Number of siblings/spouses aboard – Integer
+8. Parch – Number of parents/children aboard – Integer
+9. Ticket – Ticket number – String
+10. Fare – Ticket fare – Float
+11. Cabin – Cabin number – String
+12. Embarked – Port of embarkation – String
+13. Family_Size – Total family members aboard – Integer
